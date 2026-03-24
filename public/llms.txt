@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות הצעצועים הכי צבעונית וכיפית לילדים! סקוושים, פידג&#39;ט טויז ועוד המון הפתעות מתוקות. קנו עכשיו ותנו לילדכם חיוך שלא נגמר!
+
+### למה משפחות אוהבות אותנו
+https://example.com/why-families-love-us
+אלפי הורים וילדים כבר גילו למה אנחנו החנות האהובה! צעצועים איכותיים, מחירים שמחים וחוויית קנייה קסומה שכל המשפחה תאהב. בואו לגלות גם אתם!
+
+### אודות
+https://example.com/about
+היכירו את הצוות שהפך חנות צעצועים לחלום ורוד! אנחנו מאמינים שכל ילד מגיע לשמחה אמיתית דרך משחק יצירתי. גלו את הסיפור שלנו ואת הערכים שמניעים אותנו!
+
+### צור קשר
+https://example.com/contact
+יש שאלה? רוצים לדעת אילו סקוושים ופידג&#39;ט טויז מתאימים לילדכם? צרו קשר עכשיו וצוות המומחים שלנו ישמח לעזור לכם למצוא את הצעצוע המושלם!
+
+### Products
+https://example.com/products
+המוצרים שלנו - Fidget toys
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Fidget toys
+
+### Category
+https://example.com/category/:slug
+מוצרים - Fidget toys
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
